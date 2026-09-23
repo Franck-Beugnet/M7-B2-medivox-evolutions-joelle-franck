@@ -35,10 +35,10 @@
 - [x] **T1.5** Documenter la baseline M7-B1 ($H_4$ : F1 actuel classe séjour prolongé ≈ 0,68, p95 < 100 ms) et le protocole d'ablation obligatoire ($H_5$) pour prouver tout gain de l'option B.
 
 ### Phase 2 : Schémas Mermaid comparables & unifiés (≈ 1 h 15)
-- [ ] **T2.1** Définir la charte graphique Mermaid transverse (mêmes formes, classes CSS, palette hexadécimale, sens `flowchart LR`).
-- [ ] **T2.2** Concevoir le schéma de l'**Option A** (ML modernisé + seuil de rejet) dans `schemas/option_a.md`.
-- [ ] **T2.3** Concevoir le schéma de l'**Option B** (Pipeline d'extraction LLM JSON $\rightarrow$ validation $\rightarrow$ modèle tabulaire ML) dans `schemas/option_b.md`.
-- [ ] **T2.4** Concevoir le schéma de l'**Option C** (Graphe multi-agents : ingestion, extraction, évaluation, superviseur/HITL) dans `schemas/option_c.md`.
+- [x] **T2.1** Définir la charte graphique Mermaid transverse (mêmes formes, classes CSS, palette hexadécimale, sens `flowchart LR`).
+- [x] **T2.2** Concevoir le schéma de l'**Option A** (ML modernisé + seuil de rejet) dans `schemas/option_a.md`.
+- [x] **T2.3** Concevoir le schéma de l'**Option B** (Pipeline d'extraction LLM JSON $\rightarrow$ validation $\rightarrow$ modèle tabulaire ML) dans `schemas/option_b.md`.
+- [x] **T2.4** Concevoir le schéma de l'**Option C** (Graphe multi-agents : ingestion, extraction, évaluation, superviseur/HITL) dans `schemas/option_c.md`.
 
 ### Phase 3 : Matrice comparative 3×4 & Analyse des risques (≈ 1 h 15)
 - [ ] **T3.1** Chiffrer la **Sobriété** pour chaque option (€/mois, €/dossier, empreinte énergétique indicative kWh).
