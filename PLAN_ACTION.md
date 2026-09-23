@@ -48,9 +48,9 @@
 - [x] **T3.5** Finaliser le tableau comparatif dans `comparatif.md` (renommé depuis `comparatif_TEMPLATE.md`).
 
 ### Phase 4 : Conception des Fallback Strategies (≈ 30 min)
-- [ ] **T4.1** Détailler la procédure de l'Option A : seuil de rejet sur probabilité incertaine ($[0{,}40 ; 0{,}65]$) $\rightarrow$ routage gestionnaire de lits / cadre de santé sous 4 h.
-- [ ] **T4.2** Détailler la procédure de l'Option B : échec d'extraction ou format JSON invalide $\rightarrow$ imputation par valeur neutre/médiane (non bloquante) + file d'échantillonnage de contrôle.
-- [ ] **T4.3** Détailler la procédure de l'Option C : boucle infinie / désaccord d'agents / confiance globale basse $\rightarrow$ bascule heuristique dégradée + escalade médecin référent.
+- [x] **T4.1** Détailler la procédure de l'Option A : seuil de rejet sur probabilité incertaine ($[0{,}40 ; 0{,}65]$) $\rightarrow$ routage gestionnaire de lits / cadre de santé sous 4 h.
+- [x] **T4.2** Détailler la procédure de l'Option B : échec d'extraction ou format JSON invalide $\rightarrow$ imputation par valeur neutre/médiane (non bloquante) + file d'échantillonnage de contrôle.
+- [x] **T4.3** Détailler la procédure de l'Option C : boucle infinie / désaccord d'agents / confiance globale basse $\rightarrow$ bascule heuristique dégradée + escalade médecin référent.
 
 ### Phase 5 : Note de comparaison & Recommandation tranchée (≈ 1 h 15)
 - [ ] **T5.1** Rédiger la décision en une phrase en tête de note.
