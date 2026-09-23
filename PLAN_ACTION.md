@@ -41,11 +41,11 @@
 - [x] **T2.4** Concevoir le schéma de l'**Option C** (Graphe multi-agents : ingestion, extraction, évaluation, superviseur/HITL) dans `schemas/option_c.md`.
 
 ### Phase 3 : Matrice comparative 3×4 & Analyse des risques (≈ 1 h 15)
-- [ ] **T3.1** Chiffrer la **Sobriété** pour chaque option (€/mois, €/dossier, empreinte énergétique indicative kWh).
-- [ ] **T3.2** Chiffrer la **Performance** attendue (F1-score classe minoritaire « séjour prolongé », abstention, latence p95).
-- [ ] **T3.3** Qualifier la **Conformité** (RGPD santé / HDS, AI Act, traçabilité) avec 2 risques majeurs + mesures de maîtrise par option.
-- [ ] **T3.4** Qualifier l'**Évolutivité** (capacité d'ingestion, points de rupture) avec la même définition sur les 3 colonnes.
-- [ ] **T3.5** Finaliser le tableau comparatif dans `comparatif.md` (renommé depuis `comparatif_TEMPLATE.md`).
+- [x] **T3.1** Chiffrer la **Sobriété** pour chaque option (€/mois, €/dossier, empreinte énergétique indicative kWh).
+- [x] **T3.2** Chiffrer la **Performance** attendue (F1-score classe minoritaire « séjour prolongé », abstention, latence p95).
+- [x] **T3.3** Qualifier la **Conformité** (RGPD santé / HDS, AI Act, traçabilité) avec 2 risques majeurs + mesures de maîtrise par option.
+- [x] **T3.4** Qualifier l'**Évolutivité** (capacité d'ingestion, points de rupture) avec la même définition sur les 3 colonnes.
+- [x] **T3.5** Finaliser le tableau comparatif dans `comparatif.md` (renommé depuis `comparatif_TEMPLATE.md`).
 
 ### Phase 4 : Conception des Fallback Strategies (≈ 30 min)
 - [ ] **T4.1** Détailler la procédure de l'Option A : seuil de rejet sur probabilité incertaine ($[0{,}40 ; 0{,}65]$) $\rightarrow$ routage gestionnaire de lits / cadre de santé sous 4 h.
