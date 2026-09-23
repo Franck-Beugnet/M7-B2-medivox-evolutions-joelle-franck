@@ -8,7 +8,7 @@
 ---
 
 > ### 📌 Décision en une phrase
-> **Nous recommandons de moderniser l'existant en Machine Learning classique (Option A) avec seuil d'abstention et explicabilité SHAP, tout en conditionnant l'adoption d'un extracteur LLM hybride (Option B) à la preuve formelle par protocole d'ablation d'un gain de F1 supérieur à +0,05.**
+> **Nous recommandons de moderniser l'existant en Machine Learning classique (Option A) — sobre (~50 €/mois), explicable et conforme —, en ne basculant vers la lecture des comptes-rendus par LLM (Option B) que si un test comparatif strict prouve qu'elle apporte un gain réel d'au moins 5 % d'efficacité dans la détection des séjours prolongés.**
 
 ---
 
