@@ -53,15 +53,9 @@
 - [x] **T4.3** Détailler la procédure de l'Option C : boucle infinie / désaccord d'agents / confiance globale basse $\rightarrow$ bascule heuristique dégradée + escalade médecin référent.
 
 ### Phase 5 : Note de comparaison & Recommandation tranchée (≈ 1 h 15)
-- [ ] **T5.1** Rédiger la décision en une phrase en tête de note.
-- [ ] **T5.2** Rédiger la synthèse exécutive et le détail des 3 options.
-- [ ] **T5.3** Formuler la **Recommandation unique** étayée par 3 arguments maximum + condition explicite de changement d'avis.
-- [ ] **T5.4** Définir le **Garde-fou sobriété** en une règle opérationnelle applicable par l'équipe d'ingénierie.
-- [ ] **T5.5** Bâtir le **Plan de migration en 3 étapes** (Existant $\rightarrow$ Intermédiaire $\rightarrow$ Cible) avec changement, risque et critère formel de passage.
-- [ ] **T5.6** Finaliser `note_comparaison.md` (renommé depuis `note_comparaison_TEMPLATE.md`, 3 pages max).
-
-### Phase 6 : Répétition orale & Validation finale (≈ 45 min)
-- [ ] **T6.1** Distribuer les rôles (chacun défend l'option opposée à son affinité technique).
-- [ ] **T6.2** Structurer le conducteur de timing de 15 minutes (sans slides, basé sur les schémas Mermaid).
-- [ ] **T6.3** Préparer la réponse aux objections client prévisibles (Hélène Tournier / Karim).
-- [ ] **T6.4** Renseigner le journal de bord et effectuer le freeze définitif des fichiers du repo.
+- [x] **T5.1** Rédiger la décision en une phrase en tête de note.
+- [x] **T5.2** Rédiger la synthèse exécutive et le détail des 3 options.
+- [x] **T5.3** Formuler la **Recommandation unique** étayée par 3 arguments maximum + condition explicite de changement d'avis.
+- [x] **T5.4** Définir le **Garde-fou sobriété** en une règle opérationnelle applicable par l'équipe d'ingénierie.
+- [x] **T5.5** Bâtir le **Plan de migration en 3 étapes** (Existant $\rightarrow$ Intermédiaire $\rightarrow$ Cible) avec changement, risque et critère formel de passage.
+- [x] **T5.6** Finaliser `note_comparaison.md` (renommé depuis `note_comparaison_TEMPLATE.md`, 3 pages max).
